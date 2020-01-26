@@ -1,0 +1,13 @@
+*.egg-info
+*.egg
+*.py[cod]
+*$py.class
+.cache/
+__pycache__/
+.python-version
+dumb.rdb
+.coverage
+coverage.xml
+dump.rdb
+.DS_Store
+.ipynb_checkpoints
